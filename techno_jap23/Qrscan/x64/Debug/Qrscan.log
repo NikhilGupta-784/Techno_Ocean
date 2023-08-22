@@ -1,0 +1,38 @@
+﻿  main.cpp
+E:\AUV\techno_jap23\Qrscan\main.cpp(23,61): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\AUV\techno_jap23\Qrscan\main.cpp(23,37): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\AUV\techno_jap23\Qrscan\main.cpp(23,128): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\AUV\techno_jap23\Qrscan\main.cpp(23,94): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Qrscan.vcxproj -> E:\AUV\techno_jap23\Qrscan\x64\Debug\Qrscan.exe
